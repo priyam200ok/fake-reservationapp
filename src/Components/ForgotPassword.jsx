@@ -1,3 +1,3 @@
 export default function ForgotPassword() {
-  return <div></div>;
+  return <div>this is forgot password route back to react</div>;
 }
