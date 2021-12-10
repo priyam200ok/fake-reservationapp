@@ -1,0 +1,342 @@
+{
+  "users": [
+    {
+      "email": "admin@fake.com",
+      "password": "admin",
+      "role": "admin",
+      "userID": 1,
+      "id": 1
+    },
+    {
+      "email": "user@abc.com",
+      "password": "1234",
+      "role": "user",
+      "id": 2
+    }
+  ],
+  "scheduled": [
+    {
+      "source": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "destination": {
+        "id": 5,
+        "name": "paris",
+        "label": "paris",
+        "value": "paris"
+      },
+      "date": "2021-12-16T06:30:00.000Z",
+      "userId": "1",
+      "id": 17
+    },
+    {
+      "source": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "destination": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "date": "2021-12-17T06:30:00.000Z",
+      "userId": "1",
+      "id": 18
+    },
+    {
+      "source": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "destination": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "date": "2021-12-09T06:30:00.000Z",
+      "userId": "1",
+      "id": 19
+    },
+    {
+      "source": {
+        "id": 4,
+        "name": "brazil",
+        "label": "brazil",
+        "value": "brazil"
+      },
+      "destination": {
+        "id": 7,
+        "name": "australia",
+        "label": "australia",
+        "value": "australia"
+      },
+      "date": "2021-12-16T06:30:00.000Z",
+      "userId": "1",
+      "id": 20
+    },
+    {
+      "source": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "destination": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "date": "2021-12-09T06:30:00.000Z",
+      "userId": "1",
+      "id": 23
+    },
+    {
+      "source": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "destination": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "date": "2021-12-09T06:30:00.000Z",
+      "userId": "1",
+      "id": 24
+    },
+    {
+      "source": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "destination": {
+        "id": 7,
+        "name": "australia",
+        "label": "australia",
+        "value": "australia"
+      },
+      "date": "2021-12-16T06:30:00.000Z",
+      "userId": "2",
+      "id": 25
+    },
+    {
+      "source": {
+        "id": 5,
+        "name": "paris",
+        "label": "paris",
+        "value": "paris"
+      },
+      "destination": {
+        "id": 3,
+        "name": "uae",
+        "label": "uae",
+        "value": "uae"
+      },
+      "date": "2021-12-15T06:30:00.000Z",
+      "userId": "2",
+      "id": 26
+    },
+    {
+      "source": {
+        "id": 5,
+        "name": "paris",
+        "label": "paris",
+        "value": "paris"
+      },
+      "destination": {
+        "id": 7,
+        "name": "australia",
+        "label": "australia",
+        "value": "australia"
+      },
+      "date": "2021-12-23T06:30:00.000Z",
+      "userId": "2",
+      "id": 27
+    },
+    {
+      "source": {
+        "id": 3,
+        "name": "uae",
+        "label": "uae",
+        "value": "uae"
+      },
+      "destination": {
+        "id": 5,
+        "name": "paris",
+        "label": "paris",
+        "value": "paris"
+      },
+      "date": "2021-12-16T06:30:00.000Z",
+      "userId": "2",
+      "id": 28
+    },
+    {
+      "source": {
+        "id": 5,
+        "name": "paris",
+        "label": "paris",
+        "value": "paris"
+      },
+      "destination": {
+        "id": 4,
+        "name": "brazil",
+        "label": "brazil",
+        "value": "brazil"
+      },
+      "date": "2021-12-16T06:30:00.000Z",
+      "userId": "2",
+      "id": 29
+    },
+    {
+      "source": {
+        "id": 4,
+        "name": "brazil",
+        "label": "brazil",
+        "value": "brazil"
+      },
+      "destination": {
+        "id": 3,
+        "name": "uae",
+        "label": "uae",
+        "value": "uae"
+      },
+      "date": "2021-12-09T06:30:00.000Z",
+      "userId": "2",
+      "id": 30
+    },
+    {
+      "source": {
+        "id": 3,
+        "name": "uae",
+        "label": "uae",
+        "value": "uae"
+      },
+      "destination": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "date": "2021-12-17T06:30:00.000Z",
+      "userId": "2",
+      "id": 31
+    },
+    {
+      "source": {
+        "id": 4,
+        "name": "brazil",
+        "label": "brazil",
+        "value": "brazil"
+      },
+      "destination": {
+        "id": 3,
+        "name": "uae",
+        "label": "uae",
+        "value": "uae"
+      },
+      "date": "2021-12-17T06:30:00.000Z",
+      "userId": "2",
+      "id": 32
+    },
+    {
+      "source": {
+        "id": 5,
+        "name": "paris",
+        "label": "paris",
+        "value": "paris"
+      },
+      "destination": {
+        "id": 4,
+        "name": "brazil",
+        "label": "brazil",
+        "value": "brazil"
+      },
+      "date": "2021-12-15T06:30:00.000Z",
+      "userId": "2",
+      "id": 33
+    },
+    {
+      "source": {
+        "id": 1,
+        "name": "italy",
+        "label": "italy",
+        "value": "italy"
+      },
+      "destination": {
+        "id": 1,
+        "name": "italy",
+        "label": "italy",
+        "value": "italy"
+      },
+      "date": "2021-12-09T06:30:00.000Z",
+      "userId": "undefined",
+      "id": 34
+    },
+    {
+      "source": {
+        "id": 4,
+        "name": "brazil",
+        "label": "brazil",
+        "value": "brazil"
+      },
+      "destination": {
+        "id": 2,
+        "name": "america",
+        "label": "america",
+        "value": "america"
+      },
+      "date": "2021-12-21T06:30:00.000Z",
+      "userId": "2",
+      "id": 35
+    }
+  ],
+  "stations": [
+    {
+      "id": 1,
+      "name": "italy"
+    },
+    {
+      "id": 2,
+      "name": "america"
+    },
+    {
+      "id": 3,
+      "name": "uae"
+    },
+    {
+      "id": 4,
+      "name": "brazil"
+    },
+    {
+      "id": 5,
+      "name": "paris"
+    },
+    {
+      "id": 6,
+      "name": "germany"
+    },
+    {
+      "id": 7,
+      "name": "australia"
+    },
+    {
+      "name": "Mexico",
+      "id": 8
+    }
+  ]
+}
